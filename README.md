@@ -1,6 +1,6 @@
 #### FreeCodeCamp
 
-***The plan***
+***The plan for learning***
 - [ ] (ES6)
 - [ ] (Regular Expressions)
 - [ ] (Debugging)
