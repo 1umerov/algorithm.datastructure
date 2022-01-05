@@ -1,5 +1,5 @@
 #### FreeCodeCamp
-<img src="https://github.com/xedera/freecodecamp-javascript-mission/blob/main/freecodecamp.JPG" width="600" height="200" />
+<img src="https://github.com/xedera/freecodecamp-javascript-mission/blob/main/freecodecamp.JPG" width="600" height="300" />
 
 ***The plan for learning***
 - [ ] (ES6)
