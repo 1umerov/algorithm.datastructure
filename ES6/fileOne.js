@@ -31,7 +31,7 @@ function checkScope() {
     }
     console.log('Function scope i is', i)
 }
-
+// what was the problem?
 /* the solution */
 function checkScope() {
     let i = 'function scope';
