@@ -11,7 +11,7 @@
 - [ ] (FP)
 - [ ] (Intermediate Algorithm Scripting)
 - [ ] (JavaScript Algorithms and Data Structures Projects)
-- [ ] (Claim Certification[although, I dont really need it] )
+- [ ] (Claim Certification ***although, I dont really need it*** )
 
 #### Problems and Solutions
 - [ ] (ES6)
