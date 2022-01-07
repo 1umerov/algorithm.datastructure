@@ -3,6 +3,7 @@
 
 ***The plan for learning***
 - [ ] (ES6)
+- Reviews about the website for a specific course:
 - [ ] (Regular Expressions)
 - [ ] (Debugging)
 - [ ] (Basic Data Structures)
