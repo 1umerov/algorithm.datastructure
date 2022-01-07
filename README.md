@@ -24,5 +24,5 @@
 - [ ] (Intermediate Algorithm Scripting)
 - [ ] (JavaScript Algorithms and Data Structures Projects)
 
-#### ***Frond-End Mission**
+#### ***Frond-End Mission***
 - [ ] (Not yet assigned)
